@@ -1,0 +1,71 @@
+SONG NAME: Funeral for a Glacier
+
+---
+
+STYLE TAGS (copy this):
+Extreme Drone, Glacial Ambient, 20 BPM, Funeral Doom, Sub-bass Rumble, Tibetan Throat Singing, Whale Song Samples, Cathedral Reverb, Ice Cracking Field Recordings, Tectonic Plate Movement, Time-stretched Vocals, 10-minute Note Sustains, Geological Timescale, Heat Death of Universe Vibes, Molasses Tempo, Continental Drift Rhythm, Existential Dread Ambient, Sloth on Sedatives
+
+---
+
+EXCLUDE STYLES (copy this):
+Fast, Upbeat, Energetic, Dance, Pop, Happy, Cheerful, Drums, Percussion, Any tempo above 40 BPM, Anything resembling movement or life
+
+---
+
+LYRICS:
+
+```
+[Intro: 2 minutes - A single sub-bass note emerges from silence like a dying star]\
+
+[Verse 1: Vocals stretched so slow each word takes 30 seconds, distant ice shelf groaning]\
+Thoooooooodooooooore... \
+Waaaaaaaaaatches... \
+Theeeeeeeee... \
+Iiiiiiiiiice... \
+Meeeeeeeeelt... \
+
+[Interlude: 90 seconds of pure glacier ambience, wind through ancient crevasses]\
+
+[Verse 2: Throat singing so deep it vibrates internal organs]\
+Miiiiiiilleeeeeenniaaaaaaa... \
+Paaaaaaaaass... \
+Liiiiiiike... \
+Aaaaaaaa... \
+Siiiiiiingle... \
+Breeeeeeeeath... \
+
+[Chorus: If you can call it that - One chord change over 45 seconds]\
+Weeeeeeee... aaaaaaaaare... \
+Theeeeeee frozeeeeeen oooooooones \
+Slooooooower thaaaaaaan tiiiiiiiime \
+Slooooooower thaaaaaaan deaaaaaaaath \
+
+[Bridge: 3 minutes of a whale singing in reverse at 0.1x speed]\
+Celestiiiiiiine dreeeeeeeams \
+Of eooooooons gooooooone \
+The suuuuuuun will diiiiiiie \
+Befooooooore this sooooong ends \
+
+[Verse 3: Each syllable is a meditation]\
+Theoooooodooooore... \
+Celestiiiiiiine... \
+Haaaaaaave... \
+Becoooooome... \
+Stooooooone... \
+
+[Outro: 4 minutes - The sound of entropy itself, fading into the void]\
+...sileeeeeence... \
+...is... \
+...aaaaalso... \
+...muuuuuusic... \
+```
+
+---
+
+NOTES:
+- Characters: Theodore (ancient observer), Celestine (the glacier personified)
+- Concept: A song so slow that listening to it feels like continental drift
+- Goal: Make Suno generate something that tests the absolute minimum tempo limit
+- This song should feel like watching paint dry on a frozen wall in slow motion
+- If played at 0.5x speed, it should still feel too fast
+- The listener should age visibly while listening
