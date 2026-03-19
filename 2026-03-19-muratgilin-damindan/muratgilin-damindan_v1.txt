@@ -1,0 +1,46 @@
+**Song Name:** Muratgil'in Damından
+**Style:** Turkish Jazz, Smoky Jazz, Melancholic, Upright bass, Brushed drums, Trumpet with mute, Nylon guitar, Deep male vocals, Rubato feel, 85 BPM, Anatolian Jazz Fusion
+**Exclude:** Electronic, Synth, Pop, Upbeat, Happy, Fast tempo, Auto-tune, Rock, EDM, Bright
+
+```text
+[Intro: Solo nylon guitar, Rubato, Melancholic Anatolian melody, Room reverb]
+
+[Verse 1: Upright bass walking line, Brushed drums, Smoky male vocals]
+Muratgil'in damından atlayamadım \
+Muratgil'in damından atlayamadım \
+Liralarım döküldü le toplayamadım \
+Liralarım döküldü le toplayamadım \
+
+[Pre-Chorus: Muted trumpet enters, Building warmth]
+O yâre mektup yazdım yollayamadım \
+O yâre mektup yazdım yollayamadım \
+(Yollayamadım...) \
+
+[Chorus: Full band, Trumpet open, Soulful belting]
+Vurmayın arkadaşlar ben yaralıyam \
+El alem al giymiş ben karalıyam \
+
+[Instrumental Break: Trumpet solo with mute, Upright bass, Intimate]
+
+[Verse 2: Piano comping, Brushed drums, Breathy vocals]
+Mardin kapısından indim aşağı \
+Mardin kapısından indim aşağı \
+Beline bağlamış acem kuşağı \
+Beline bağlamış acem kuşağı \
+
+[Bridge: Stripped down, Upright bass solo, Whispered vocals]
+İmdat ha, yetişin, emmim uşağı \
+İmdat ha, yetişin, emmim uşağı \
+(Yetişin... yetişin...) \
+
+[Chorus: Full band, Trumpet swells, Passionate delivery]
+Vurmayın arkadaşlar ben yaralıyam \
+El alem al giymiş ben karalıyam \
+
+[Outro: Fading nylon guitar, Distant trumpet, Rubato]
+(Vurmayın arkadaşlar ben yaralıyam) \
+(El alem al giymiş ben karalıyam) \
+Vurmayın arkadaşlar ben yaralıyam \
+El alem al giymiş ben karalıyam \
+(Karalıyam... karalıyam...) \
+```
